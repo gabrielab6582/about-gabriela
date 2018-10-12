@@ -8,8 +8,7 @@ gabrielab6582@hstat.org
 I grew up in Brookyn.
 
 
-
-### * Schedule: 
+* Schedule: 
  * 1 Math 
  * 2 Science 
  * 3 English 
