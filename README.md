@@ -1,14 +1,17 @@
 ## **Gabriela Bochen**
 ---
-### _Student at HSTAT_
+### _Student at HSTAT_  
+gabrielab6582@hstat.org  
+[SEP Protfolio](https://sites.google.com/a/hstat.org/gabrielab6582sep11/home)  
 
 
-gabrielab6582@hstat.org 
-
-I grew up in Brookyn.
-
-
-* Schedule: 
+School Extracurricular:
+* Sports   
+  * Swimming 
+* Clubs 
+    * Model UN
+    
+### Schedule: 
  * 1 Math 
  * 2 Science 
  * 3 English 
