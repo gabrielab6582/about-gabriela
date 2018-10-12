@@ -1,4 +1,4 @@
-## **Gabriela Bochen** 
+## **Gabriela Bochen** :smile: 
 ---
 ### _Student at HSTAT_  
 gabrielab6582@hstat.org  
