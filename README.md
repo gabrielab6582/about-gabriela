@@ -1,4 +1,4 @@
-## **Gabriela Bochen**
+## **Gabriela Bochen** 
 ---
 ### _Student at HSTAT_  
 gabrielab6582@hstat.org  
@@ -7,7 +7,7 @@ gabrielab6582@hstat.org
 
 School Extracurricular:
 * Sports   
-  * Swimming 
+  * Swimming :swimmer:
 * Clubs 
     * Model UN
     
