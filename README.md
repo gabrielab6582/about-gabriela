@@ -1,5 +1,5 @@
 ## **Gabriela Bochen**
----
+**---**
 ### _Student at HSTAT_
 
 
@@ -7,7 +7,6 @@ gabrielab6582@hstat.org
 
 I grew up in Brookyn.
 
-Hobbies: 
 
 
 ### Schedule: 
