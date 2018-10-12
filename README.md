@@ -2,7 +2,7 @@
 
 ### _Student at HSTAT_
 
-gabrielab6582@hstat.org
+[gabrielab6582@hstat.org] (gabrielab6582@hstat.org)
 
 Gabby grew up in Brookyn
 
